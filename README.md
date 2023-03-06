@@ -1,6 +1,7 @@
 ### Hi there I'm Per Krsitian 👋
 
 I am currently studying front-end devolpment at Noroff
+
 Working as a support manager and developer at Triark Systems AS
 
 

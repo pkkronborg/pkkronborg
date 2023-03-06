@@ -5,7 +5,7 @@ I am currently studying front-end devolpment at Noroff
 Working as a support manager and developer at Triark Systems AS
 
 
-Check out my Portfolio page to see my school projects
+Check out my [Portfolio page]() to see my school projects
 
 
 <!--

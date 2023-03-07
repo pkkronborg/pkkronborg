@@ -1,9 +1,17 @@
-### Hi there I'm Per Krsitian 👋
 
+# Hi there I'm Per Krsitian 👋    
+
+<br>
 :man_student: I am currently studying front-end devolpment at Noroff
 
-:man_office_worker: I am working as a support manager and developer at Triark Systems AS
-
+:man_office_worker: I am working as a support manager and developer at Triark Systems AS  
+<br>
+  
+### Tools that I'm working with
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,vscode,wordpress,xd,figma)](https://skillicons.dev)  
+<br>
+<br>
 
 Check out my [Portfolio page]() to see my school projects
 

@@ -1,24 +1,16 @@
 ### Hi there I'm Per Krsitian 👋
 
-I am currently studying front-end devolpment at Noroff
+:man_student: I am currently studying front-end devolpment at Noroff
 
-Working as a support manager and developer at Triark Systems AS
+:man_office_worker: I am working as a support manager and developer at Triark Systems AS
 
 
 Check out my [Portfolio page]() to see my school projects
 
 
+
+
 <!--
 **pkkronborg/pkkronborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

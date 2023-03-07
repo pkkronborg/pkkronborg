@@ -9,7 +9,7 @@
   
 ### Tools that I'm working with
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,vscode,wordpress,xd,figma)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,vscode,wordpress,xd,figma)](https://skillicons.dev)  
 <br>
 <br>
 

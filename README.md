@@ -1,5 +1,5 @@
 
-# Hi there I'm Per Krsitian 👋    
+# Hi there I'm Per Kristian 👋    
 
 <br>
 :man_student: I am currently studying front-end devolpment at Noroff
